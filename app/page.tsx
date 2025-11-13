@@ -270,8 +270,7 @@ export default function Home() {
           <h1 className="text-2xl sm:text-3xl font-bold text-center">Merkelfy</h1>
 
           <p className="text-xs sm:text-sm text-neutral-400 text-center">
-            Lade ein Bild hoch. Die Pixel deines Bildes bewegen sich langsam und
-            formen ein Porträt von Angela Merkel – mit lebendigem Wobble.
+            Wann Döner wieder 4 Euro ?
           </p>
 
           <div className="w-full flex flex-col gap-3 items-center">
