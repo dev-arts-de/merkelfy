@@ -12,6 +12,7 @@ type Point = {
   startX: number;
   startY: number;
   endX: number;
+  endY: number;
   r: number;
   g: number;
   b: number;
